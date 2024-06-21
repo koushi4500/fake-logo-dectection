@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Real/Fake Logo Detection using Deep Learning
 
 ## Overview
@@ -73,3 +74,6 @@ The trained model is evaluated on the test set, and accuracy along with the conf
 ## Saving the Model
 
 The trained model is saved as 'logo_detection_model.h5'.
+=======
+# Fake_logo_detection-
+>>>>>>> origin/main
